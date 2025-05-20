@@ -12,6 +12,6 @@ namespace Domain.Models
         [Key]
         public Guid Id { get; set; }
         public bool Maintenance { get; set; } = false;
-        //public bool DarkMode { get; set; }    //hathy maghir ama awka lil mosta9bil
+        //public bool DarkMode { get; set; }    //future idea 
     }
 }

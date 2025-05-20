@@ -21,7 +21,7 @@ namespace Domain.Models
 
         [ForeignKey("Factory")]
         public Guid? FKfactory { get; set; }
-        public Factory? Factory { get; set; }  //yst7a9o
+        public Factory? Factory { get; set; }  
 
         public ICollection<Audit> Audits { get; set; } = new List<Audit>();
 

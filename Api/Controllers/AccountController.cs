@@ -230,13 +230,13 @@ namespace Api.Controllers
 </head>
 <body>
   <div class='email-container'>
-    <!-- قسم للشعار لو أردت -->
+ 
     <div class='logo-container'>
       <img src='https://cdn.brandfetch.io/idg4eYjY1W/w/387/h/150/theme/dark/logo.png?c=1dxbfHSJFAPEGdCLU4o5B' alt='Company Logo' />
     </div>
 
     <div class='content'>
-      <!-- الهيدر بلون مميز -->
+   
       <div class='content-header'>
         <h1>Réinitialisation de Mot de Passe</h1>
       </div>

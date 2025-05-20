@@ -212,7 +212,7 @@ var app = builder.Build();
 
 using (var scope = app.Services.CreateScope())
 {
-    var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole<Guid>>>();  ///hatha ta3 seeder
+    var roleManager = scope.ServiceProvider.GetRequiredService<RoleManager<IdentityRole<Guid>>>();  ///needed for the seeder
     await RoleSeeder.SeedRolesAsync(roleManager);
 }
 

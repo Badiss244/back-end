@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Dmr1MKpWR1I=",
+  "dgSpecHash": "WA6gUHTSNMA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Badis\\Source\\Repos\\5sNetApi\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Badis\\Source\\Repos\\back-end\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Badis\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Badis\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

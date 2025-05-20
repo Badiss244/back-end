@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Badis\\Source\\Repos\\5sNetApi\\Infra\\Infra.csproj": {}
+    "C:\\Users\\Badis\\Source\\Repos\\back-end\\Infra\\Infra.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Badis\\Source\\Repos\\5sNetApi\\Infra\\Infra.csproj": {
+    "C:\\Users\\Badis\\Source\\Repos\\back-end\\Infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Badis\\Source\\Repos\\5sNetApi\\Infra\\Infra.csproj",
+        "projectUniqueName": "C:\\Users\\Badis\\Source\\Repos\\back-end\\Infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "C:\\Users\\Badis\\Source\\Repos\\5sNetApi\\Infra\\Infra.csproj",
+        "projectPath": "C:\\Users\\Badis\\Source\\Repos\\back-end\\Infra\\Infra.csproj",
         "packagesPath": "C:\\Users\\Badis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Badis\\Source\\Repos\\5sNetApi\\Infra\\obj\\",
+        "outputPath": "C:\\Users\\Badis\\Source\\Repos\\back-end\\Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
