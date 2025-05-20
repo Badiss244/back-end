@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{049AE678-8FFB-4569-A6E7-9639093414FF}|Data\\Data.csproj|c:\\users\\badis\\source\\repos\\5snetapi\\data\\migrations\\20250506225446_blessed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049AE678-8FFB-4569-A6E7-9639093414FF}|Data\\Data.csproj|solutionrelative:data\\migrations\\20250506225446_blessed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2563394-A4A6-4361-898B-5C38D681410B}|Api\\Api.csproj|c:\\users\\badis\\source\\repos\\5snetapi\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2563394-A4A6-4361-898B-5C38D681410B}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{049AE678-8FFB-4569-A6E7-9639093414FF}|Data\\Data.csproj|c:\\users\\badis\\source\\repos\\5snetapi\\data\\migrations\\20250505172728_claimssss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{049AE678-8FFB-4569-A6E7-9639093414FF}|Data\\Data.csproj|solutionrelative:data\\migrations\\20250505172728_claimssss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5067C52F-0E19-49BF-9FBB-458D59626CAD}|Domain\\Domain.csproj|c:\\users\\badis\\source\\repos\\5snetapi\\domain\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5067C52F-0E19-49BF-9FBB-458D59626CAD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2563394-A4A6-4361-898B-5C38D681410B}|Api\\Api.csproj|c:\\users\\badis\\source\\repos\\5snetapi\\api\\controllers\\factorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2563394-A4A6-4361-898B-5C38D681410B}|Api\\Api.csproj|solutionrelative:api\\controllers\\factorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2563394-A4A6-4361-898B-5C38D681410B}|Api\\Api.csproj|c:\\users\\badis\\source\\repos\\5snetapi\\api\\controllers\\qualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2563394-A4A6-4361-898B-5C38D681410B}|Api\\Api.csproj|solutionrelative:api\\controllers\\qualitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2563394-A4A6-4361-898B-5C38D681410B}|Api\\Api.csproj|c:\\users\\badis\\source\\repos\\5snetapi\\api\\controllers\\auditorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2563394-A4A6-4361-898B-5C38D681410B}|Api\\Api.csproj|solutionrelative:api\\controllers\\auditorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5067C52F-0E19-49BF-9FBB-458D59626CAD}|Domain\\Domain.csproj|c:\\users\\badis\\source\\repos\\5snetapi\\domain\\models\\parametres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5067C52F-0E19-49BF-9FBB-458D59626CAD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\parametres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5067C52F-0E19-49BF-9FBB-458D59626CAD}|Domain\\Domain.csproj|c:\\users\\badis\\source\\repos\\5snetapi\\domain\\models\\nofication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5067C52F-0E19-49BF-9FBB-458D59626CAD}|Domain\\Domain.csproj|solutionrelative:domain\\models\\nofication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2563394-A4A6-4361-898B-5C38D681410B}|Api\\Api.csproj|c:\\users\\badis\\source\\repos\\5snetapi\\api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2563394-A4A6-4361-898B-5C38D681410B}|Api\\Api.csproj|solutionrelative:api\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250506225446_blessed.cs",
+              "DocumentMoniker": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Data\\Migrations\\20250506225446_blessed.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250506225446_blessed.cs",
+              "ToolTip": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Data\\Migrations\\20250506225446_blessed.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250506225446_blessed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T22:54:46.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20250505172728_claimssss.cs",
+              "DocumentMoniker": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Data\\Migrations\\20250505172728_claimssss.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250505172728_claimssss.cs",
+              "ToolTip": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Data\\Migrations\\20250505172728_claimssss.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250505172728_claimssss.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:27:28.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Domain\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Domain\\Models\\AppUser.cs",
+              "RelativeToolTip": "Domain\\Models\\AppUser.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAIAwwB4AAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T17:27:04.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-05T17:26:51.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Parametres.cs",
+              "DocumentMoniker": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Domain\\Models\\Parametres.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Parametres.cs",
+              "ToolTip": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Domain\\Models\\Parametres.cs",
+              "RelativeToolTip": "Domain\\Models\\Parametres.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T20:10:14.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Nofication.cs",
+              "DocumentMoniker": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Domain\\Models\\Nofication.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Nofication.cs",
+              "ToolTip": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Domain\\Models\\Nofication.cs",
+              "RelativeToolTip": "Domain\\Models\\Nofication.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T19:05:14.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Api\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Api\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Api\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAACADAAAAAAAAAAAmwDIDAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T21:22:04.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuditorController.cs",
+              "DocumentMoniker": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Api\\Controllers\\AuditorController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\AuditorController.cs",
+              "ToolTip": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Api\\Controllers\\AuditorController.cs",
+              "RelativeToolTip": "Api\\Controllers\\AuditorController.cs",
+              "ViewState": "AgIAAJABAAAAAAAAAADwv6MBAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T21:19:59.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FactoryController.cs",
+              "DocumentMoniker": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Api\\Controllers\\FactoryController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\FactoryController.cs",
+              "ToolTip": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Api\\Controllers\\FactoryController.cs",
+              "RelativeToolTip": "Api\\Controllers\\FactoryController.cs",
+              "ViewState": "AgIAAA8BAAAAAAAAAAAkwCIBAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T21:18:50.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QualityController.cs",
+              "DocumentMoniker": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Api\\Controllers\\QualityController.cs",
+              "RelativeDocumentMoniker": "Api\\Controllers\\QualityController.cs",
+              "ToolTip": "C:\\Users\\Badis\\source\\repos\\5sNetApi\\Api\\Controllers\\QualityController.cs",
+              "RelativeToolTip": "Api\\Controllers\\QualityController.cs",
+              "ViewState": "AgIAAA4BAAAAAAAAAAAowBwBAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T21:06:42.162Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
